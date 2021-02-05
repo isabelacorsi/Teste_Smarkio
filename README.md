@@ -1,2 +1,5 @@
-# Teste_Smarkio
-SMARKIO Teste ciência de dados
+#Teste SMARKIO - README
+Para os itens 2,3 e 4
+
+
+
